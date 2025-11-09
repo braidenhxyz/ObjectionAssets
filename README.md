@@ -5,6 +5,7 @@ Use the Share Code to install the pre-assembled characters into your objection.l
 | Share Code | Name | Position | Developed By |
 | :-: | :-: | :-: | :-: |
 | NPFZNG | Microsoft Edge | Witness | Braiden |
+| KQZGZA | Microsoft Edge | Defense | Braiden |
 
 ---
 
