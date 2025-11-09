@@ -7,3 +7,4 @@ VSC and Note7 assets are provided and made by https://github.com/RGBProductions 
 |  :-: | :-: | :-: |
 |  VOGSSC | Visual Studio Code | Defense |
 |  GZBXMA | Visual Studio Code | Witness |
+|  code_here | Microsoft Edge | Witness |
