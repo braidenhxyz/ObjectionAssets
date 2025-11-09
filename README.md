@@ -7,6 +7,14 @@ Use the Share Code to install the pre-assembled characters into your objection.l
 | NPFZNG | Microsoft Edge | Witness | Braiden |
 | KQZGZA | Microsoft Edge | Defense | Braiden |
 
+
+## Sounds
+
+| Raw Link | Name | Position | Developed By |
+| :-: | :-: | :-: | :-: |
+| https://raw.githubusercontent.com/braidenhxyz/ObjectionAssets/refs/heads/main/music/snd_ominous.wav | snd_ominous.wav | N/A | Braiden |
+
+
 ---
 
 All icons, sounds, and related assets are the property of their respective owners.  
