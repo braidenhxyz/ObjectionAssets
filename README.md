@@ -12,7 +12,8 @@ Use the Share Code to install the pre-assembled characters into your objection.l
 
 | Name | Position | Developed By | Raw Link |
 | :-: | :-: | :-: | :-: |
-| snd_ominous.wav | N/A | Braiden | https://raw.githubusercontent.com/braidenhxyz/ObjectionAssets/refs/heads/main/music/snd_ominous.wav
+| snd_ominous.wav | N/A | Braiden | https://raw.githubusercontent.com/braidenhxyz/ObjectionAssets/refs/heads/main/music/snd_ominous.wav |
+| windows_sound_thingy.wav | N/A | Braiden | https://raw.githubusercontent.com/braidenhxyz/ObjectionAssets/refs/heads/main/music/windows_sound_thingy.wav |
 
 
 ---
